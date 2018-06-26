@@ -101,12 +101,12 @@ aside a+p {
 }
 
 .grade {
-	float: right;
+	/* float: right; */
 }
 
 .skill>p {
 	font-size: 14px;
-	float: left;
+	/* float: left; */
 }
 
 .grade {
@@ -182,6 +182,29 @@ aside a+p {
 .main h3 {
 	line-height: 1.2em;
 }
+
+#projects ul li p {
+	margin: 5px;
+}
+
+#projects ul li {
+	margin: 15px 0;
+}
+
+.project-link {
+	color: black;
+	text-decoration: none;
+}
+
+.project-link:hover {
+	color: #aa7039;
+}
+
+.project-info {
+	font-weight: bold;
+}
+
+.pro
 
 .date {
 	letter-spacing: 4px;
