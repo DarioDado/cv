@@ -183,6 +183,10 @@ aside a+p {
 	line-height: 1.2em;
 }
 
+#projects article {
+	overflow: hidden;
+}
+
 #projects ul li p {
 	margin: 5px;
 }
